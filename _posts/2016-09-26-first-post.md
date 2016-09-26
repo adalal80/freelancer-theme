@@ -1,4 +1,14 @@
 ## This is a blog post
-Read it!
-Stop reading it.
-or read it again if you want to.
+layout: default
+modal-id: 1
+date: 2016-09-26
+img: cabin.png
+alt: image-alt
+project-date: Sep 2016
+client: The Client
+category: Basic Blog Post
+description: Read it! Stop reading it.
+
+
+
+
